@@ -3,6 +3,11 @@ source 'https://rubygems.org'
 ruby '2.7.0'
 
 gem 'rails', '~> 6.0.2', '>= 6.0.2.1'
+gem 'devise'
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
+gem 'jquery-rails'
+
 gem 'puma', '~> 4.1'
 gem 'sass-rails', '>= 6'
 gem 'webpacker', '~> 4.0'
